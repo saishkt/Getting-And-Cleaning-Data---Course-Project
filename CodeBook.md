@@ -3,6 +3,7 @@
 This document describes the code inside `run_analysis.R`.
 
 The code has the following Helper Functions:
+
 1. loadMeasurementData
 2. extractMeanAndStdData
 3. labelVariables
