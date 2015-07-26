@@ -11,6 +11,7 @@ The code has the following Helper Functions:
 5. appendSubjectData
 
 and a main function that executes the analysis
+
 1. runAnalysis
 
 ## Helper Function
