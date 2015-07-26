@@ -27,5 +27,11 @@ This file itself
 ## Running this script
 1. Clone this repo
 2. In the r console use the following command
+
         $ source("run_analysis.R")
+
    2 files will be generated in the same directory as explained under the run_analysis.R section of this README
+   
+   2. Run the script:
+   
+       $ Rscript run_analysis.R
