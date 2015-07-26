@@ -19,7 +19,7 @@ This is the main file that executes the analysis. It assumes the "Human Activity
 1. Read the training and test data set
 2. Perform some transformations
 3. Generate the tidy data set that contains variables of importance and saves it in "tidydata.txt"
-4. Generate a mean of all the variables in the tidy data set and saves it in "meanVarData.txt"
+4. Generate a mean of all the feature variables in the tidy data set by activity and subject and saves it in "meanVarData.txt"
 
 ## CodeBook.md
 This file explains in detail the working of the run_analysis.R script and the output it generates
