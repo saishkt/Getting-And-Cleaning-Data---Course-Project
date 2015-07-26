@@ -44,7 +44,7 @@ There are 81 variables generated in the tidydata.txt and meanVarData.txt
 
         The subjects were made to do the following activities:
          
-        WALKINGWALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+        WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
         
 3. Subject Variable:
 
