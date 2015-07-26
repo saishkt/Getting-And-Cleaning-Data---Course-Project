@@ -31,7 +31,3 @@ This file itself
         $ source("run_analysis.R")
 
    2 files will be generated in the same directory as explained under the run_analysis.R section of this README
-   
-   2. Run the script:
-   
-       $ Rscript run_analysis.R
