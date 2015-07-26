@@ -2,12 +2,15 @@
 
 ## Introduction
 
-This document describes the contents of this repository. The purpose of this code is to clean up the Human Activity Recognition Using Smartphones Data Set
+This document describes the contents of this repository. The purpose of this code is to clean up the Human Activity Recognition Using Smartphones Data Set. 
+
+Click the [link](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) to get more info on the data set
 
 The repository contains 3 files:
 
 * run_analysis.R
 * Codebook.md
+* features_info.txt
 * README.md
 
 ## run_analysis.R
@@ -20,6 +23,9 @@ This is the main file that executes the analysis. It assumes the "Human Activity
 
 ## CodeBook.md
 This file explains in detail the working of the run_analysis.R script and the output it generates
+
+## features_info.txt
+This file contains information regarding the features in the dataset. More info shall be provided in the CodeBook.md file
 
 ## README.md
 This file itself
